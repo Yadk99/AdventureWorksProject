@@ -1,4 +1,5 @@
-﻿11000,Jon,Yang,Rockhampton,QLD,Queensland,Australia,Pacific
+﻿CustomerKey,FirstName,LastName,City,StateAbbrev,Province,Country,Continent
+11000,Jon,Yang,Rockhampton,QLD,Queensland,Australia,Pacific
 11001,Eugene,Huang,Seaford,VIC,Victoria,Australia,Pacific
 11002,Ruben,Torres,Hobart,TAS,Tasmania,Australia,Pacific
 11003,Christy,Zhu,North Ryde,NSW,New South Wales,Australia,Pacific
